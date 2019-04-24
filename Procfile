@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT testing_app_2_dev_744.wsgi:application
